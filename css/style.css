@@ -1,10 +1,23 @@
 /* Nav Bar CSS */
-
-
+body .nats-nav {
+    background-color:#4c2626;
+}
+body .contactnav{
+    background-color:#738db7;
+}
+body .navabout{
+    background-color:#81c193;
+}
 /* Header CSS */
-
-
-
+body{
+    background-color:#88569e;
+}
+.smokey{
+    background-color:#c4af9b;
+}
+.yell{
+    background-color: #b2ba7a;
+}
 /* Section CSS */
 
 
@@ -22,5 +35,4 @@
 
 
 /* Button CSS */
-
 
